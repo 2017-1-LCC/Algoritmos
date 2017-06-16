@@ -21,7 +21,7 @@ Semestre: 2017.1
 1 - Introdução
     
     (TEMPORÁRIO)
-    Neste Pequeno texto, pretendo mostrar, com a ajuda dos meus colegas,
+Neste Pequeno texto, pretendo mostrar, com a ajuda dos meus colegas,
 um resumo de algoritmo em portugol e como implementar alguns exemplos na linguagem de
 propgramação C, que será nossa proxima linguagem de estudo.
 
