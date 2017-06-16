@@ -1,5 +1,7 @@
 # Algoritmos
 
+## Introdução ( Conceitos básicos de variável entrada e saída )
+
 Iae galera vou tentar explicar aqui um pouco sobre algoritmos, o primeiro conceito é o de *variável*, que nada mais é do que um espaço na memória, mas como assim? tipo os algoritmos resolvem problemas e para isso eles passam por três etapas básicas.
 
 * Entrada
@@ -13,19 +15,19 @@ escreva(“digite sua senha: “)
 ````
 para que o usuário entenda que ele o que ele precisa fazer, é claro que no facebook não é o comando *escreva* que faz isso, mas todas as linguagens tem algum comando para mostrar uma saída é fundamental fazer isso, podemos ver como por exemplo:
 * java
-````
+````java
 System.out.println(“Digite sua senha”)
 ````
 * c
-````
+````c
 printf(“Digite sua senha: “)
 ````
 * phyton
-````
+````phyton
 print(“Digite sua senha: “)
 ````
 * php
-````
+````php
 <?php echo “<p>Digite sua senha: </p> ?>
 ````
 * portugol
@@ -54,5 +56,15 @@ nesse momento já podemos fazer algoritmos simples para treinar vou passar algun
 
 *é muito importante fazer os exercícios por mais básicos que sejam, a repetição é muito boa para pegar a sinxate ( como se escreve o código )*
 
+## Processamento 
 
-– continua... stop in 11/06/2017
+O que pode ser entendido como processamento? um algortimo que soma pega duas notas e retorna uma média é um processamento?, não ele tem um processamento, que é justamente o momento que se se soma as duas notas e divide por 2 e se atribui o valor a uma nova variável
+que podemos chamar de média, então o processamento seria algo tipo:
+
+média = (primeira_nota + segunda_nota) / 2
+
+nesse momento passamos por um processamento, esse processamento poderia fazer algo tipo, se a média for maior que 7 aprovado, se não reprovado, mas vamos deixar o *se senão* para um outro momento, o que precisamos entender aqui é o processamento e o quanto ele é importante
+o processamento pode ser chamado de, regra de negócio, formula, o processamento é uma parte muito importante, tipo vc pode pegar as duas notas corretamente mas se na hora de fazer o processamento para encontrar a média vc não somar as duas notas e depois dividir por dois, vair dar erro
+e o pior de tudo é que não vai acusar o erro com uma mensagem, tipo imagine que vc faça *média = primeira_nota + segunda_nota / 2* sem os parenteses isso vai dar errado porque primeiramente ele vai dividir a segunda nota por dois e depois somar com a primeira nota.
+
+– continua... stop in 16/06/2017
