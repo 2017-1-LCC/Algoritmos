@@ -67,4 +67,16 @@ nesse momento passamos por um processamento, esse processamento poderia fazer al
 o processamento pode ser chamado de, regra de negócio, formula, o processamento é uma parte muito importante, tipo vc pode pegar as duas notas corretamente mas se na hora de fazer o processamento para encontrar a média vc não somar as duas notas e depois dividir por dois, vair dar erro
 e o pior de tudo é que não vai acusar o erro com uma mensagem, tipo imagine que vc faça *média = primeira_nota + segunda_nota / 2* sem os parenteses isso vai dar errado porque primeiramente ele vai dividir a segunda nota por dois e depois somar com a primeira nota.
 
+agora vamos treinar fazer processamento:
+
+### 1 - faça um algortimo que lê duas notas mostra a média na tela depois.
+
+### 2 - faça um algortimo que lê três notas mostra a média na tela depois.
+
+iai foi fácil, conseguiu entender até aqui? é importante saber que se vc está sem entender o que foi explicado anteriormente é melhor revisar o que foi visto até aqui antes de passar para a próxima etapa.
+
+## Estrutura de controle ( se senão , if )
+
+
+
 – continua... stop in 16/06/2017
