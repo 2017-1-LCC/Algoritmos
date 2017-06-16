@@ -76,7 +76,4 @@ agora vamos treinar fazer processamento:
 iai foi fácil, conseguiu entender até aqui? é importante saber que se vc está sem entender o que foi explicado anteriormente é melhor revisar o que foi visto até aqui antes de passar para a próxima etapa.
 
 ## Estrutura de controle ( se senão , if )
-
-
-
 – continua... stop in 16/06/2017
