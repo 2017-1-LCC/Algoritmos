@@ -1,21 +1,22 @@
-######################################################
-|                                                    |
-|          PEQUENA INTRODUÇÃO À ALGORITMOS           |
-|                                                    |
-|----------------------------------------------------|
-| Autor: André Paulo Silva Liro                      |
-| Curso: LCC                                         |
-| Semestre: 2017.1                                   |
- ----------------------------------------------------
+PEQUENA INTRODUÇÃO À ALGORITMOS 
 
-######################################################
-    SUMARIO 
+Autor: André Paulo Silva Liro                      
+Curso: LCC                                         
+Semestre: 2017.1 
+
+
+
+                                  
+
+
+
+    SUMARIO
         1 - Introdução
         2 - Enrolação
         3 - Laços de repetição
             3.1 - O que são laços de repetição
 
-######################################################
+
 
 1 - Introdução
     
