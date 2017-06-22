@@ -1,6 +1,6 @@
 # PEQUENA INTRODUÇÃO À ALGORITMOS 
 
-Autor: André Paulo Silva Liro                      
+Autor: [André Paulo Silva Liro](https://github.com/a2liro)
 Curso: LCC                                         
 Semestre: 2017.1 
 
