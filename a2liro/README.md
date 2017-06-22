@@ -16,7 +16,7 @@ Semestre: 2017.1
   [3.1. - O que são laços de repetição](#3.1)<br>
   [3.1.1. Laço de repetição com contador](#3.1.1)<br>
   [3.1.2. Laço de repetição com contador em portugol](#3.1.2)<br>
-  [3.1.3. Laço de repetição com contador em](#3.1.3)<br>
+  [3.1.3. Laço de repetição com contador em **C](#3.1.3)<br>
 
 
 
@@ -62,7 +62,7 @@ O laço de repetição com contador, pode ser implementado em qualquer linguagem
        fimpara
     Fimalgoritmo
 
-#### <a name="3.1.3"></a>3.1.3 Laço de repetição com contador em
+#### <a name="3.1.3"></a>3.1.3 Laço de repetição com contador em **C
 
     #include <stdio.h>
     #include <stdlib.h>
