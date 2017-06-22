@@ -10,9 +10,9 @@ Semestre: 2017.1
 
 
 # Sumário
-[1. - Introdução](#1)
-[2. - Enrolação](#2)
-[3. - Laços de repetição <br>](#3)
+[1. - Introdução](#1)<br>
+[2. - Enrolação](#2)<br>
+[3. - Laços de repetição](#3)<br>
   [3.1. - O que são laços de repetição](#3.1)<br>
   [3.1.1. Laço de repetição com contador](#3.1.1)<br>
   [3.1.2. Laço de repetição com contador em portugol](#3.1.2)<br>
@@ -73,9 +73,3 @@ O laço de repetição com contador, pode ser implementado em qualquer linguagem
         printf("O valor de X é: %d", x); 
       }
     }
-
-
-
-
-
-
