@@ -10,14 +10,14 @@ Semestre: 2017.1
 
 
 # Sumário
-1 - Introdução
-2 - Enrolação
-3 - Laços de repetição
+1 - Introdução <br>
+2 - Enrolação <br>
+3 - Laços de repetição <br>
   3.1 - O que são laços de repetição
 
 
 
-1 - Introdução
+<h3>1 - Introdução</h3>
     
     (TEMPORÁRIO)
 Neste Pequeno texto, pretendo mostrar, com a ajuda dos meus colegas,
