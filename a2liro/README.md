@@ -49,6 +49,7 @@ O laço de repetição com contador, pode ser implementado em qualquer linguagem
 
 #### <a name="3.1.2"></a>3.1.2 Laço de repetição com contador em portugol 
 
+```portugol
     Algoritmo "Laço de repetição com contador em portugol"
 
     Var
@@ -62,8 +63,11 @@ O laço de repetição com contador, pode ser implementado em qualquer linguagem
        fimpara
     Fimalgoritmo
 
+```
+
 #### <a name="3.1.3"></a>3.1.3 Laço de repetição com contador em **C
 
+```c
     #include <stdio.h>
     #include <stdlib.h>
   
@@ -73,3 +77,4 @@ O laço de repetição com contador, pode ser implementado em qualquer linguagem
         printf("O valor de X é: %d", x); 
       }
     }
+```
