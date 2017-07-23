@@ -1,2 +1,4 @@
 ./hc3/*.o
 ./hc3/*.exe
+./hc3/questoes_diego/*.o
+./hc3/questoes_diego/*.exe
